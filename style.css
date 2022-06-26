@@ -10,7 +10,7 @@
 
 
       /* background-color: black; */
-      height: 500px; /* You must set a specified height */
+      height: 5%; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
@@ -18,7 +18,7 @@
 .press-logo
 {
 
-  image-resolution: 300dpi;
+  image-resolution: 50dpi;
   height:110%;
   width: 100%;
   filter: blur(4x);
@@ -42,8 +42,16 @@ position: absolute;
     font-family: 'Gruppo', cursive;
   font-family: 'Raleway', sans-serif;
 }
+#h4{
+  color:#EFEFEF;
+  font-family: 'Gruppo', cursive;
+font-family: 'Raleway', sans-serif;
+}
+}
 .table{
+  color:#EFEFEF;
   padding: 15px;
  text-align: left;
   border-bottom: 1px solid #ddd;
+  position: absolute;
 }
