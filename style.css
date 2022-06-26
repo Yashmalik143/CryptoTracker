@@ -1,0 +1,49 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+#ff{
+
+
+
+
+      /* background-color: black; */
+      height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.press-logo
+{
+
+  image-resolution: 300dpi;
+  height:110%;
+  width: 100%;
+  filter: blur(4x);
+  -webkit-filter: blur(4px);
+position: absolute;
+  z-index: -1;
+
+}
+.fix{
+    border:2px solid #EFEFEF;
+    border-radius: 5px;
+
+    background-color: #205375;
+
+    opacity: 0.9;
+    padding: 10px;
+    position: absolute;
+}
+#h1{
+    color:white;
+    font-family: 'Gruppo', cursive;
+  font-family: 'Raleway', sans-serif;
+}
+.table{
+  padding: 15px;
+ text-align: left;
+  border-bottom: 1px solid #ddd;
+}
